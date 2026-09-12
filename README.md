@@ -1,38 +1,29 @@
-# Olá, eu sou o Kleberson 👋
+<div align="center">
 
-### Desenvolvedor Full Stack em WL (WinDev - Web | Mobile) .
+# Kleberson Lima
 
-Atualmente estou estudando tecnologias como:
-- 🐍 Python | 💻 JavaScript.
-- Desenvolvendo projetos pessoais para aprimorar e expandir meus conhecimentos.
+**Desenvolvedor Full Stack Júnior** · Ciência da Computação, PUC Minas
 
-**Conecte-se 🔗** 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleberson-lima-7283a1253/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kleberson.lima.band@gmail.com)
 
-[![](Images/linkedin.png)](https://www.linkedin.com/in/kleberson-lima-7283a1253/)
-[![](Images/gmail.png)](mailto:kleberson.lima.band@gmail.com)
+<br>
 
----
+Desenvolvimento full stack de sistemas ERP corporativos — do levantamento de requisitos à arquitetura e integração de APIs. Aplico IA à engenharia de software para otimizar entregas.
 
-## **Tecnologias e Ferramentas**
-![WinDev](Images/Windev.png)
-![HTML5](Images/html-5.png)
-![CSS3](Images/css.png)
-![JavaScript](Images/javascript)
-![Python](Images/python.png)
+`Full Stack` · `Business Analysis` · `APIs` · `SQL` · `ERP` · `AI-Assisted Development`
 
----
+<br>
 
-🚀 **Estatísticas de Contribuição**  
-![Kleberson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KlebersonClima&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![WinDev](https://img.shields.io/badge/WinDev-003399?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-🛠️ **Linguagens Mais Usadas**  
-![Kleberson's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KlebersonClima&layout=compact&hide_title=true&theme=radical)
---
- **Projetos em Destaque**  
-Aqui você pode ver os projetos e repositórios que mais se destacam! 🔥
+<br>
 
-- **[JustIA](https://github.com/KlebersonCLima/JustIA)** - Um projeto incrível de Inteligência Artificial, desenvolvido com foco em aprendizado de máquina e automação.
-- **[Campo de Futebol OPENGL](https://github.com/KlebersonCLima/Campo-de-Futebol-OPENGL)** - Um projeto gráfico utilizando OpenGL, onde recriei um campo de futebol interativo em 3D.
+<img src="https://streak-stats.demolab.com?user=KlebersonCLima&theme=radical&hide_border=true" width="48%" />
 
-
-
+</div>
