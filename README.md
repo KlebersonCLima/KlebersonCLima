@@ -29,6 +29,7 @@ Desenvolvimento full stack de sistemas ERP corporativos — do levantamento de r
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [Prontuário Digital PUC](https://github.com/KlebersonCLima/Prontuario-Digital-PUC) | Prontuário digital para a Fisioterapia da PUC Minas Poços de Caldas | Flask, MySQL, Bootstrap |
+| [Doutor Ludo](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2026-1-es2-noite-doutor-ludo) | Plataforma web de aluguel de jogos de tabuleiro com reservas e base de conhecimento | FastAPI, JavaScript |
 | [FilmesDB](https://github.com/KlebersonCLima/FilmesDB) | API REST de filmes, séries e atores | .NET 8, EF Core, MySQL |
 | [JustIA](https://github.com/KlebersonCLima/JustIA) | Interface de assistente jurídico | React, Ant Design |
 | [Agenda Pessoal](https://github.com/KlebersonCLima/Agenda-Pessoal-AndroidStudio-Activity) | App Android de compromissos com MVC | Java, SQLite |
